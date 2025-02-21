@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error involving missing `except` blocks and redundancy in exception handling. The `bug.py` file contains the erroneous code, which fails to catch potential `TypeError` exceptions. The `bugSolution.py` provides the corrected version.
